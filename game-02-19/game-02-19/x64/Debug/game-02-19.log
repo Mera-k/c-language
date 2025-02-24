@@ -1,0 +1,3 @@
+﻿  game.c
+E:\programmer\C语言\PROGECT\2022\game-02-19\game.c(155,1): warning C4715: “IsFull”: 不是所有的控件路径都返回值
+  game-02-19.vcxproj -> E:\programmer\C语言\PROGECT\2022\game-02-19\x64\Debug\game-02-19.exe
