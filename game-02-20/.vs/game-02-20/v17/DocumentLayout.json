@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2022\\game-02-20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3961CF7-3EBC-4F93-BC32-F9EEB6009C9C}|game-02-20.vcxproj|E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3961CF7-3EBC-4F93-BC32-F9EEB6009C9C}|game-02-20.vcxproj|E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3961CF7-3EBC-4F93-BC32-F9EEB6009C9C}|game-02-20.vcxproj|E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\game.c",
+              "RelativeDocumentMoniker": "..\\..\\2013\\game2-02-20\\game2-02-20\\game.c",
+              "ToolTip": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\game.c",
+              "RelativeToolTip": "..\\..\\2013\\game2-02-20\\game2-02-20\\game.c",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAE8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T07:52:30.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\game.h",
+              "RelativeDocumentMoniker": "..\\..\\2013\\game2-02-20\\game2-02-20\\game.h",
+              "ToolTip": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\game.h",
+              "RelativeToolTip": "..\\..\\2013\\game2-02-20\\game2-02-20\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T07:50:55.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\test.c",
+              "RelativeDocumentMoniker": "..\\..\\2013\\game2-02-20\\game2-02-20\\test.c",
+              "ToolTip": "E:\\programmer\\C\u8BED\u8A00\\PROGECT\\2013\\game2-02-20\\game2-02-20\\test.c",
+              "RelativeToolTip": "..\\..\\2013\\game2-02-20\\game2-02-20\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T07:50:51.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
